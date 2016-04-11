@@ -1,0 +1,18 @@
+{
+    "preset": "jquery",
+    "requireEarlyReturn": true,
+    "requireSpacesInsideParentheses": null,
+    "requireSpacesInsideBrackets": null,
+    "disallowSpacesInsideParentheses": {
+        "only": [ "{", "}", "[", "]", "function" ]
+    },
+    "disallowSpacesInCallExpression": true,
+    "requirePaddingNewLinesBeforeLineComments": null,
+    "requireSpaceAfterLineComment": {
+        "allExcept": ["#", "="]
+    },
+    "disallowMultipleLineBreaks": null,
+    "requireCapitalizedComments": null,
+    "validateIndentation": null,
+    "validateCommentPosition": { "position": "above" }
+}
